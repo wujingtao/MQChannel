@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/logo_32.ico</file>
+        <file>image/lock.png</file>
+        <file>image/user.png</file>
+        <file>image/camera.png</file>
+        <file>image/watchword.PNG</file>
+        <file>image/background.png</file>
+        <file>image/close.png</file>
+        <file>image/min.png</file>
+        <file>image/camera2.png</file>
+        <file>image/config.png</file>
+        <file>image/button.png</file>
+        <file>image/camera2_hover.png</file>
+        <file>image/camera2_press.png</file>
+        <file>image/config_hover.png</file>
+        <file>image/config_press.png</file>
+        <file>image/ipc_normal.png</file>
+        <file>image/nvr.png</file>
+        <file>image/loading.gif</file>
+        <file>image/imageError.jpg</file>
+        <file>image/log.png</file>
+        <file>image/log_hover.png</file>
+        <file>image/log_press.png</file>
+        <file>image/big_juxing.png</file>
+        <file>image/logo.png</file>
+        <file>image/T.png</file>
+        <file>image/line.png</file>
+        <file>image/small-juxing.png</file>
+        <file>image/bg_1.png</file>
+        <file>image/bg_2.png</file>
+        <file>image/button2.png</file>
+        <file>image/button3.png</file>
+        <file>image/button4.png</file>
+        <file>image/button5.png</file>
+        <file>image/LOGO1.png</file>
+    </qresource>
+</RCC>

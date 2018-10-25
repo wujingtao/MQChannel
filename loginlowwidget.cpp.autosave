@@ -1,0 +1,6 @@
+#include "loginlowwidget.h"
+
+loginLowWindow::loginLowWindow()
+{
+
+}

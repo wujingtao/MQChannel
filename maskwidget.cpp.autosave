@@ -1,0 +1,6 @@
+#include "maskwidget.h"
+
+loginWindow::loginWindow()
+{
+
+}
